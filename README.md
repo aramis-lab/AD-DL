@@ -2,7 +2,8 @@
   Convolutional neural networks for classification of Alzheimer's disease: Overview and reproducible evaluation
 </h1>
 
-> **Note**: This project evolved in a python package for the processing of neuroimaging data
+:warning: **Note:** :warning:
+> This project evolved in a python package for the processing of neuroimaging data
 > with deep learning methods. Please use the [ClinicaDL](https://github.com/aramis-lab/clinicadl)
 > library to benefit from the last updates!
 
