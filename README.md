@@ -15,7 +15,7 @@ This repository hosts the code source for reproducible experiments on
 data**.
 It allows training autoencoders and convolutional neural networks.
 The journal version of the paper describing this work is available
-[here](https://doi.org/10.1016/j.media.2020.101694).
+[here](https://doi.org/10.1016/j.media.2020.101694) and an Open Access version is available [here](https://hal.archives-ouvertes.fr/hal-02562504v2/document).
 
 ## Pretrained models
 
